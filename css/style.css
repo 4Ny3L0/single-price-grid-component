@@ -67,6 +67,11 @@ button:hover {
   margin: 0;
   padding: 1rem 2.4rem;
 }
+.monthly h2,
+.why-us h2 {
+  font-size: 1.1rem;
+}
+
 .join {
   background-color: white;
   color: var(--grayish-blue);
@@ -85,9 +90,6 @@ button:hover {
 .monthly {
   background-color: var(--cyan);
   color: white;
-}
-.monthly h2 {
-  font-size: 1.2rem;
 }
 .month {
   font-size: 2rem;
